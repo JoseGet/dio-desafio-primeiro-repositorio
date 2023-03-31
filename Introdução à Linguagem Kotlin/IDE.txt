@@ -1,0 +1,4 @@
+Ides sugeridas para programar em Kotlin:
+* IntelliJ IDEA
+* Android Studio
+* Eclipse
